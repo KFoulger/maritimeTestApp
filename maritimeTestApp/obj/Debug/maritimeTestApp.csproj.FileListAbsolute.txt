@@ -1,0 +1,7 @@
+C:\Users\Kieran\source\repos\maritimeTestApp\maritimeTestApp\bin\Debug\maritimeTestApp.exe.config
+C:\Users\Kieran\source\repos\maritimeTestApp\maritimeTestApp\bin\Debug\maritimeTestApp.exe
+C:\Users\Kieran\source\repos\maritimeTestApp\maritimeTestApp\bin\Debug\maritimeTestApp.pdb
+C:\Users\Kieran\source\repos\maritimeTestApp\maritimeTestApp\obj\Debug\maritimeTestApp.csprojAssemblyReference.cache
+C:\Users\Kieran\source\repos\maritimeTestApp\maritimeTestApp\obj\Debug\maritimeTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Kieran\source\repos\maritimeTestApp\maritimeTestApp\obj\Debug\maritimeTestApp.exe
+C:\Users\Kieran\source\repos\maritimeTestApp\maritimeTestApp\obj\Debug\maritimeTestApp.pdb
